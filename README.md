@@ -93,3 +93,4 @@ From the repository's root directory:
 ``` bash
 $ make
 ```
+h[:, :, 19:19+x.size()[2], 19:19+x.size()[3]].contiguous()
